@@ -140,7 +140,7 @@ class ViewController: UIViewController {
         
             let okButton = UIAlertAction(title: "OK", style: UIAlertAction.Style.cancel, handler: nil)
             
-            // Sourcetree deneme
+            
             
             let tekrarOyna = UIAlertAction(title: "Tekrar Oyna", style: UIAlertAction.Style.default) { (UIAlertAction) in
                 self.score = 0
