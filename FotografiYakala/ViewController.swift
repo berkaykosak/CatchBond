@@ -157,6 +157,6 @@ class ViewController: UIViewController {
             alert.addAction(tekrarOyna)
             self.present(alert, animated: true, completion: nil)
         }
-    }
+    } //DENEME...
 }
 
